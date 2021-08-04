@@ -2,7 +2,7 @@
 import requests, json
 
 # enter your api key here
-api_key ='AIzaSyDZQTgqbc5ph9paYZmZWIJH05mbZfNIMyY'
+api_key ='your api key'
 
 # Take source as input
 source = input()
